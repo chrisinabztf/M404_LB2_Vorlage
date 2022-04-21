@@ -1,2 +1,5 @@
-# M404_LB2_Vorlage
-LB2 - Projekt im Modul M404
+# M404 - Projekt LB2
+
+Autor : NAME
+
+
