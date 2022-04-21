@@ -2,4 +2,8 @@
 
 Autor : NAME
 
+## Zielsetzung : Android App
+
+BESCHREIBUNG DER ZIELSETZUNG
+
 
